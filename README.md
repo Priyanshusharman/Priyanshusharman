@@ -1,9 +1,4 @@
 
-Then paste only the actual content directly into `README.md`.
-
-Use this cleaned version:
-
-:::writing{variant="standard" id="68421"}
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 
 <h3 align="center">

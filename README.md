@@ -1,4 +1,9 @@
-```md
+
+Then paste only the actual content directly into `README.md`.
+
+Use this cleaned version:
+
+:::writing{variant="standard" id="68421"}
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 
 <h3 align="center">
@@ -70,17 +75,20 @@ Full Stack Developer focused on scalable backend systems, APIs, and production-g
 ## 📌 Featured Projects
 
 ### 🔹 Litigation Analytics System
+
 AI-powered legal analytics platform with:
 - Case prediction model
 - Case duration estimation
 - Legal guidance assistant
 
 ### 🔹 WhatsApp Chat Analysis Tool
+
 - Chat analytics dashboard
 - Heatmaps & word cloud visualization
 - Trend analysis using Python & Streamlit
 
 ### 🔹 Doormonk – Gallery Booking Platform
+
 - Full-stack booking platform
 - JWT authentication
 - Booking workflows & secure APIs
@@ -117,7 +125,7 @@ AI-powered legal analytics platform with:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshusharman&show_icons=true&theme=tokyonight" height="180em"/>
-  
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusharman&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
@@ -130,4 +138,11 @@ AI-powered legal analytics platform with:
 - API performance optimization
 - Scalable web applications
 - Product engineering
-```
+:::
+
+Also your left-side bio still looks old in the screenshot.
+
+Update GitHub profile bio to:
+
+```txt id="zc48um"
+Full Stack Developer | React.js • Node.js • MySQL | Backend Systems & Production Applications
